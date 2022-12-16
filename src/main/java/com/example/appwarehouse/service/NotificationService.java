@@ -1,6 +1,5 @@
 package com.example.appwarehouse.service;
 
-import com.example.appwarehouse.entity.Input;
 import com.example.appwarehouse.entity.InputProduct;
 import com.example.appwarehouse.entity.WarningTime;
 import com.example.appwarehouse.payload.InputProductResponse;
@@ -8,7 +7,6 @@ import com.example.appwarehouse.payload.Result;
 import com.example.appwarehouse.payload.WarningTimeDto;
 import com.example.appwarehouse.repository.InputProductRepository;
 import com.example.appwarehouse.repository.InputRepository;
-import com.example.appwarehouse.repository.OutputRepository;
 import com.example.appwarehouse.repository.WarningTimeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,5 @@
 package com.example.appwarehouse.controller;
 
-import com.example.appwarehouse.entity.Category;
 import com.example.appwarehouse.payload.CategoryDto;
 import com.example.appwarehouse.payload.Result;
 import com.example.appwarehouse.service.CategoryService;

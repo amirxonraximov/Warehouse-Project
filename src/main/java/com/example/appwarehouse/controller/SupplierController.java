@@ -6,10 +6,6 @@ import com.example.appwarehouse.service.SupplierService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.time.Instant;
-import java.util.Date;
-import java.util.concurrent.TimeUnit;
-
 @RestController
 @RequestMapping("/supplier")
 public class SupplierController {

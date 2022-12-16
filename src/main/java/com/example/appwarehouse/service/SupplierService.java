@@ -4,7 +4,6 @@ import com.example.appwarehouse.entity.Supplier;
 import com.example.appwarehouse.payload.Result;
 import com.example.appwarehouse.payload.SupplierDto;
 import com.example.appwarehouse.repository.SupplierRepository;
-import com.example.appwarehouse.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
