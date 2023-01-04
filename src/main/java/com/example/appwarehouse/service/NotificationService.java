@@ -25,7 +25,6 @@ public class NotificationService {
     private WarningTimeRepository warningTimeRepository;
     @Autowired
     private InputRepository inputRepository;
-
     @Autowired
     private InputProductRepository inputProductRepository;
 

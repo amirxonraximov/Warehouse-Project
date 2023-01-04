@@ -59,6 +59,6 @@ public class SupplierService {
             return Result.fail("Supplier not found");
         }
         supplierRepository.deleteById(id);
-        return Result.success("Suplir deleted");
+        return Result.success("Supplier deleted");
     }
 }

@@ -39,6 +39,4 @@ public class AttachmentController {
             FileCopyUtils.copy(attachmentContent.getBytes(), response.getOutputStream());
         }
     }
-
-
 }
